@@ -10,7 +10,7 @@
 ####  🌱 I’m currently learning Full-Stack Web development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshith292002)  [<img src='http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png' alt='instagram' height='40'>](https://www.instagram.com/Harshith___/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshith292002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Harshith___/)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshith292002&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith292002)](https://github.com/anuraghazra/github-readme-stats)     
