@@ -2,12 +2,12 @@
 ### I am a Web developer and a tech enthusiast.
 ![I am a web developer](https://thumbs.dreamstime.com/b/under-construction-building-process-header-banner-landing-page-flat-line-vector-design-concept-web-presentation-template-77593315.jpg)
 
-I am an Electronics Engineer with a special intreat in web development and Programming
+#### I am an Electronics Engineer with a special intreat in web development and Programming
 
-Skills: NODE.JS / REACT / JS / HTML / CSS / MONGODB
+#### Skills: NODE.JS / REACT / JS / HTML / CSS / MONGODB
 
-#### 🔭 I’m currently working on A service portal for SRM University 
-#### 🌱 I’m currently learning Full-Stack Web development 
+#### - 🔭 I’m currently working on A service portal for SRM University 
+#### - 🌱 I’m currently learning Full-Stack Web development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshith292002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Harshith___/)  
