@@ -1,27 +1,19 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+### Hey! I am Harshith
+#### I am a web developer
+![I am a web developer](https://thumbs.dreamstime.com/b/under-construction-building-process-header-banner-landing-page-flat-line-vector-design-concept-web-presentation-template-77593315.jpg)
 
-<br />
+I am an Electronics Engineer with a special intreat in web development and Programming
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Skills: NODE.JS / REACT / JS / HTML / CSS / MONGODB
 
-**About me**
-
-- 💼 Learning Full stack web developer
-
-- 📈 Working on a service portal for SRM University
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- 🔭 I’m currently working on A service portal for SRM University 
+- 🌱 I’m currently learning Full-Stack Web development 
 
 
-| <a href="https://github.com/Harshith292002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshith292002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshith's github stats" /></a> | <a href="https://github.com/Harshith292002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith292002&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshith292002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Harshith__/)  
 
-#### Top Repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith292002)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshith292002&show_icons=true)  
 
-<a href="https://github.com/Harshith292002/github-readme-stats">
+![Profile views](https://gpvc.arturio.dev/Harshith292002)  
