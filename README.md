@@ -1,7 +1,7 @@
 # Hey! I am Harshith
 ### I am a Web developer and a tech enthusiast.
 
-### An Electronics Engineer with a special intrest in Web development and Programming
+### An Electronics Engineer with a special interest in Web development and Programming
 
 #### Skills: NODE.JS / REACT / JS / HTML / CSS / MONGODB
 
