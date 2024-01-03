@@ -1,9 +1,8 @@
 # Hey! I am Harshith
-### I am a Web developer and a tech enthusiast.
 
-### An Electronics Engineer with a special interest in Web development and Programming
+### An Electronics Engineer with a special interest in Embedded development and Iot
 
-#### Skills: NODE.JS / REACT / JS / HTML / CSS / MONGODB
+#### Skills: Verilog / Embedded C / NODE.JS / REACT / JS / HTML / CSS / MongoDB
 
 ####  🔭 I’m currently working on A service portal for SRM University. 
 ####  🌱 I’m currently exploring various technologies in Web Development.
