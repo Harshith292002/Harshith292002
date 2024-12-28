@@ -16,7 +16,7 @@ I'm a Master's student in Electrical and Computer Engineering at Johns Hopkins U
 ---
 
 📂 **Highlighted Projects**  
-1. **[COPD Detection System](https://github.com/Harshith292002/copd-detection)**  
+1. **COPD Detection System**  
    - Developed a machine learning model for non-invasive COPD detection using respiratory sounds.  
    - Integrated MEMS microphones for data collection and built a scalable diagnostic solution.  
 
