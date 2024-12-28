@@ -42,9 +42,5 @@ I'm a Master's student in Electrical and Computer Engineering at Johns Hopkins U
 
 📫 **Let's Connect!**  
 - **GitHub**: [github.com/Harshith292002](https://github.com/Harshith292002)  
-- **LinkedIn**: [linkedin.com/in/Harshith](https://www.linkedin.com/in/Harshith)  
-- **Email**: harshith.chennupati@example.com  
-
----
-
-⭐ **Fun Fact**: I'm a tech enthusiast who enjoys diving deep into interdisciplinary challenges and building solutions that bridge gaps between hardware and software!
+- **LinkedIn**: [linkedin.com/in/Harshith](https://www.linkedin.com/in/harshithchennupati/)  
+- **Email**: harshith@chennupatis.com
