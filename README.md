@@ -5,5 +5,5 @@
 ---
 
 📫 **Let's Connect!**  
-- **LinkedIn**: [linkedin.com/in/Harshith]([https://www.linkedin.com/in/harshithchennupati/](https://www.linkedin.com/in/harshith-chennupati-a323531bb/)])  
+- **LinkedIn**: [linkedin.com/in/Harshith](https://www.linkedin.com/in/harshith-chennupati-a323531bb/) 
 - **Email**: harshith@chennupatis.com
